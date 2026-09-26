@@ -23,9 +23,9 @@ Telegram的广告和诈骗严重影响日常使用，创造该项目尽可能的
 目前仅支持<a href="https://github.com/NextAlone/Nagram" target="_blank">Nagram</a>
 和<a href="https://github.com/risin42/NagramX">Nagram X</a>第三方开源的Telegram
 
-（下载Telegram.TXT的文件，打文件复制里面的屏蔽规则，然后导入即可使用）
+（下载Telegram.TXT的文件，打开文件复制里面的屏蔽规则，然后导入即可使用）
 
-正后续适配第三方群聊机器人中
+规则已适配“方丈机器人”
 
 # 最后:
 有问题和投稿<a href="https://t.me/+_7z2xhAXhTRiOWI0" target="_blank">
